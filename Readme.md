@@ -1,7 +1,12 @@
-## Projeto Simples com HTML5 e CSS3 Básico
+## Projeto TecBlog
 
-Site Fictício com HTML5 e CSS3 Básico
+Blog sobre Tecnologia Fictício
 
-### Preview Desktop
+### Tecnologias:
+
+:black_small_square: HTML5 <br>
+:black_small_square: CSS3
+
+## Preview Desktop
 
 <img src="assets/imagens/PreviewDesktop.png">
